@@ -26,13 +26,13 @@ body {
 /*	position: center bottom;*/
 }
 h1 {
-	font-family: Copyduck;
+	font-family: Madimi One;
 	font-size: 50px;
 	color: #d15513;
 	text-align: center center;
 }
 h2 {
-	font-family: Lemon Milk;
+	font-family: Madimi One;
 	font-size: 40px;
 	color: #d15513;
 }
@@ -62,3 +62,13 @@ a:active {
 	text-decoration: underline;
 	color: #d15513;
 	}
+.roboto-thin {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+.madimi-one-regular {
+  font-family: "Madimi One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
